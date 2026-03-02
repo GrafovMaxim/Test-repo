@@ -1,1 +1,1 @@
-Initial commit for Test-repo.
+Cars are fascinating machines that have revolutionized transportation. From classic models to modern electric vehicles, they represent a blend of engineering, design, and personal freedom.
